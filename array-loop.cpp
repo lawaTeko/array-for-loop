@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(){
-	// 							0		1		2		  3			4
+	// 		index :	  0	   1	     2	       3	  4
 	string buahArray[5] = {"Coklat", "Jeruk", "Pepaya", "Pisang", "Mangga"};
 	int nilaiArray[5] = {10, 20, 30, 40, 50};
 	
